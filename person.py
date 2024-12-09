@@ -7,16 +7,11 @@ class Person():
     def introduce(self):
      print(f"My name is {self.name}, I am {self.age} and I am {self.height}")
 
-    def set_new_name(self,person_name): #set method to change the name 
-     self.name = person_name 
+    
 
-katy = Person("Katy", 31, "short")
 
-#Object method()
 
-katy.introduce()
 
-katy.set_new_name("Oana")
 
-print(katy.name)
+
 
