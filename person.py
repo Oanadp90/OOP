@@ -12,6 +12,9 @@ class Person():
      self.name = person_name 
 
 
+    def set_hair_colour(self, hair_colour):
+       self.hair_colour = hair_colour
+
 
 
 
