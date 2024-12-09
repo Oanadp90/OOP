@@ -6,6 +6,6 @@ def set_new_name(self,person_name): #set method to change the name
 katy = Person("Katy", 31, "short")
 katy.introduce()
 
-katy.set_new_name("Oana") #Object method()
+katy.set_new_name("Katherine") #Object method()
 
 print(katy.name)
